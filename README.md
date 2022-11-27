@@ -133,3 +133,4 @@ r.ProgSave(r"""C:/Users/Aishree Ramesh/OneDrive/Documents/RoboDK""",r"""PICKANDP
 
 
 ### RESULTS :  
+Thus, an environment for pick & place operations with Industrial Robot using Robo DK software is designed and simulated.
